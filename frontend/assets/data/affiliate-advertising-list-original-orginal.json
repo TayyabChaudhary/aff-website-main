@@ -1,0 +1,1947 @@
+{
+    "post": {
+        "ID": 5368,
+        "post_author": "1",
+        "post_date": "2023-02-10 06:49:11",
+        "post_date_gmt": "2023-02-10 06:49:11",
+        "post_content": "",
+        "post_title": "Affiliate Advertising List Original Orginal",
+        "post_excerpt": "",
+        "post_status": "publish",
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "post_password": "",
+        "post_name": "affiliate-networks-list-duplicate-duplicate-2",
+        "to_ping": "",
+        "pinged": "",
+        "post_modified": "2023-04-03 07:48:32",
+        "post_modified_gmt": "2023-04-03 07:48:32",
+        "post_content_filtered": "",
+        "post_parent": 0,
+        "guid": "https:\/\/affwebsite.com\/ninja-table\/affiliate-networks-list-duplicate-duplicate-2\/",
+        "menu_order": 0,
+        "post_type": "ninja-table",
+        "post_mime_type": "",
+        "comment_count": "0",
+        "filter": "raw"
+    },
+    "columns": [
+        {
+            "name": "",
+            "key": "network",
+            "breakpoints": "",
+            "data_type": "image",
+            "dateFormat": "",
+            "timeFormat": "",
+            "header_html_content": "",
+            "enable_html_content": "false",
+            "contentAlign": "left",
+            "textAlign": "left",
+            "maxWidthUnit": "px",
+            "force_download": "",
+            "link_type": "none",
+            "width": "120",
+            "link_target": "_blank"
+        },
+        {
+            "name": "Affiliating Networks ",
+            "key": "offer",
+            "breakpoints": "",
+            "data_type": "html",
+            "dateFormat": "",
+            "timeFormat": "",
+            "header_html_content": "",
+            "enable_html_content": "false",
+            "contentAlign": "",
+            "textAlign": "",
+            "maxWidthUnit": "px",
+            "force_download": "",
+            "width": "150"
+        },
+        {
+            "name": "Rating",
+            "key": "country",
+            "breakpoints": "",
+            "data_type": "html",
+            "dateFormat": "",
+            "timeFormat": "",
+            "header_html_content": "",
+            "enable_html_content": "false",
+            "contentAlign": "right",
+            "textAlign": "right",
+            "maxWidthUnit": "px",
+            "force_download": "",
+            "selections": "lin\nlin\nusa",
+            "link_type": "iframe_ligtbox",
+            "width": "100"
+        },
+        {
+            "name": "Link",
+            "key": "link",
+            "breakpoints": "",
+            "data_type": "button",
+            "dateFormat": "",
+            "timeFormat": "",
+            "header_html_content": "",
+            "enable_html_content": "false",
+            "button_text": "Join Now",
+            "link_target": "_blank",
+            "btn_bg_color": "rgba(0, 123, 255, 1)",
+            "btn_text_color": "rgba(255, 255, 255, 1)",
+            "btn_border_color": "rgba(0, 0, 0, 1)",
+            "contentAlign": "right",
+            "textAlign": "justify",
+            "maxWidthUnit": "px",
+            "force_download": "",
+            "btn_extra_class": "nt_rounded_btn",
+            "width": "5",
+            "text_color": "rgba(255, 255, 255, 1)",
+            "transformed_value": ""
+        }
+    ],
+    "settings": {
+        "perPage": "10",
+        "show_all": "0",
+        "library": "footable",
+        "css_lib": "semantic_ui",
+        "enable_ajax": "",
+        "css_classes": [
+            "single line",
+            "selectable",
+            "striped",
+            "compact",
+            "vertical_centered"
+        ],
+        "enable_search": "",
+        "column_sorting": "1",
+        "default_sorting": "old_first",
+        "sorting_type": "manual_sort",
+        "table_color": "white",
+        "render_type": "legacy_table",
+        "frontend_loader": "no",
+        "table_color_type": "custom_color",
+        "expand_type": "expandAll",
+        "stackable": "no",
+        "table_font_family": "inherit",
+        "table_font_size": "14",
+        "alternate_color_status": "no",
+        "show_title": "",
+        "show_description": "",
+        "hide_header_row": "1",
+        "hide_all_borders": "",
+        "hide_on_empty": "",
+        "hide_responsive_labels": "",
+        "shouldNotCache": "no",
+        "enable_html_cache": "yes",
+        "pagination_position": "center",
+        "show_pager": "1",
+        "sticky_header": "no",
+        "search_position": "center",
+        "nt_search_full_width": "",
+        "table_header_color_primary": "rgba(0, 123, 255, 1)",
+        "table_color_header_secondary": "rgba(255, 255, 255, 1)",
+        "table_color_header_border": "",
+        "table_color_primary": "rgba(255, 255, 255, 1)",
+        "table_color_secondary": "rgba(0, 0, 0, 1)",
+        "table_color_border": "",
+        "table_color_primary_hover": "rgba(237, 237, 237, 1)",
+        "table_color_secondary_hover": "rgba(0, 0, 0, 1)",
+        "table_color_border_hover": "",
+        "paginate_to_top": "",
+        "sorting_column": "offer",
+        "sorting_column_by": "ASC",
+        "togglePosition": "first",
+        "html_caching_minutes": "0",
+        "stacks_devices": [],
+        "stacks_appearances": []
+    },
+    "data_provider": "default",
+    "metas": {
+        "_ninja_table_columns": [
+            {
+                "name": "",
+                "key": "network",
+                "breakpoints": "",
+                "data_type": "image",
+                "dateFormat": "",
+                "timeFormat": "",
+                "header_html_content": "",
+                "enable_html_content": "false",
+                "contentAlign": "left",
+                "textAlign": "left",
+                "maxWidthUnit": "px",
+                "force_download": "",
+                "link_type": "none",
+                "width": "120",
+                "link_target": "_blank"
+            },
+            {
+                "name": "Affiliating Networks ",
+                "key": "offer",
+                "breakpoints": "",
+                "data_type": "html",
+                "dateFormat": "",
+                "timeFormat": "",
+                "header_html_content": "",
+                "enable_html_content": "false",
+                "contentAlign": "",
+                "textAlign": "",
+                "maxWidthUnit": "px",
+                "force_download": "",
+                "width": "150"
+            },
+            {
+                "name": "Rating",
+                "key": "country",
+                "breakpoints": "",
+                "data_type": "html",
+                "dateFormat": "",
+                "timeFormat": "",
+                "header_html_content": "",
+                "enable_html_content": "false",
+                "contentAlign": "right",
+                "textAlign": "right",
+                "maxWidthUnit": "px",
+                "force_download": "",
+                "selections": "lin\nlin\nusa",
+                "link_type": "iframe_ligtbox",
+                "width": "100"
+            },
+            {
+                "name": "Link",
+                "key": "link",
+                "breakpoints": "",
+                "data_type": "button",
+                "dateFormat": "",
+                "timeFormat": "",
+                "header_html_content": "",
+                "enable_html_content": "false",
+                "button_text": "Join Now",
+                "link_target": "_blank",
+                "btn_bg_color": "rgba(0, 123, 255, 1)",
+                "btn_text_color": "rgba(255, 255, 255, 1)",
+                "btn_border_color": "rgba(0, 0, 0, 1)",
+                "contentAlign": "right",
+                "textAlign": "justify",
+                "maxWidthUnit": "px",
+                "force_download": "",
+                "btn_extra_class": "nt_rounded_btn",
+                "width": "5",
+                "text_color": "rgba(255, 255, 255, 1)",
+                "transformed_value": ""
+            }
+        ],
+        "_ninja_table_settings": {
+            "perPage": "10",
+            "show_all": "0",
+            "library": "footable",
+            "css_lib": "semantic_ui",
+            "enable_ajax": "",
+            "css_classes": [
+                "single line",
+                "selectable",
+                "striped",
+                "compact",
+                "vertical_centered"
+            ],
+            "enable_search": "",
+            "column_sorting": "1",
+            "default_sorting": "old_first",
+            "sorting_type": "manual_sort",
+            "table_color": "white",
+            "render_type": "legacy_table",
+            "frontend_loader": "no",
+            "table_color_type": "custom_color",
+            "expand_type": "expandAll",
+            "stackable": "no",
+            "table_font_family": "inherit",
+            "table_font_size": "14",
+            "alternate_color_status": "no",
+            "show_title": "",
+            "show_description": "",
+            "hide_header_row": "1",
+            "hide_all_borders": "",
+            "hide_on_empty": "",
+            "hide_responsive_labels": "",
+            "shouldNotCache": "no",
+            "enable_html_cache": "yes",
+            "pagination_position": "center",
+            "show_pager": "1",
+            "sticky_header": "no",
+            "search_position": "center",
+            "nt_search_full_width": "",
+            "table_header_color_primary": "rgba(0, 123, 255, 1)",
+            "table_color_header_secondary": "rgba(255, 255, 255, 1)",
+            "table_color_header_border": "",
+            "table_color_primary": "rgba(255, 255, 255, 1)",
+            "table_color_secondary": "rgba(0, 0, 0, 1)",
+            "table_color_border": "",
+            "table_color_primary_hover": "rgba(237, 237, 237, 1)",
+            "table_color_secondary_hover": "rgba(0, 0, 0, 1)",
+            "table_color_border_hover": "",
+            "paginate_to_top": "",
+            "sorting_column": "offer",
+            "sorting_column_by": "ASC",
+            "togglePosition": "first",
+            "html_caching_minutes": "0",
+            "stacks_devices": [],
+            "stacks_appearances": []
+        },
+        "_ninja_custom_table_buttons": {
+            "csv": {
+                "status": "no",
+                "label": "CSV",
+                "all_rows": "no",
+                "bg_color": "rgb(0,0,0)",
+                "text_color": "rgb(255,255,255)"
+            },
+            "print": {
+                "status": "no",
+                "label": "Print",
+                "all_rows": "no",
+                "bg_color": "rgb(0,0,0)",
+                "text_color": "rgb(255,255,255)",
+                "header_each_page": "no",
+                "footer_each_page": "no"
+            },
+            "button_position": "after_search_box",
+            "button_alignment": "ninja_buttons_left"
+        },
+        "_ninja_table_custom_filters": {
+            "ninja_filter_0": {
+                "placeholder": "All",
+                "options": [
+                    {
+                        "label": "7Search PPC",
+                        "value": "7Search PPC"
+                    },
+                    {
+                        "label": "ActiveRevenue",
+                        "value": "ActiveRevenue"
+                    },
+                    {
+                        "label": "Adavice DSP",
+                        "value": "Adavice DSP"
+                    },
+                    {
+                        "label": "AdCalm",
+                        "value": "AdCalm"
+                    },
+                    {
+                        "label": "Adcash",
+                        "value": "Adcash"
+                    },
+                    {
+                        "label": "Adclickmedia",
+                        "value": "Adclickmedia"
+                    },
+                    {
+                        "label": "AdForGames",
+                        "value": "AdForGames"
+                    },
+                    {
+                        "label": "Adkomo",
+                        "value": "Adkomo"
+                    },
+                    {
+                        "label": "Adlane",
+                        "value": "Adlane"
+                    },
+                    {
+                        "label": "AdMaven",
+                        "value": "AdMaven"
+                    },
+                    {
+                        "label": "ADminds Digital",
+                        "value": "ADminds Digital"
+                    },
+                    {
+                        "label": "Admuxer",
+                        "value": "Admuxer"
+                    },
+                    {
+                        "label": "Adnation",
+                        "value": "Adnation"
+                    },
+                    {
+                        "label": "Adnet.Cash",
+                        "value": "Adnet.Cash"
+                    },
+                    {
+                        "label": "Adnium",
+                        "value": "Adnium"
+                    },
+                    {
+                        "label": "AdOperator",
+                        "value": "AdOperator"
+                    },
+                    {
+                        "label": "Adreact",
+                        "value": "Adreact"
+                    },
+                    {
+                        "label": "Adrenalead",
+                        "value": "Adrenalead"
+                    },
+                    {
+                        "label": "Ads2Bid",
+                        "value": "Ads2Bid"
+                    },
+                    {
+                        "label": "Adsaro",
+                        "value": "Adsaro"
+                    },
+                    {
+                        "label": "AdsBound",
+                        "value": "AdsBound"
+                    },
+                    {
+                        "label": "Adscompass",
+                        "value": "Adscompass"
+                    },
+                    {
+                        "label": "Adshares",
+                        "value": "Adshares"
+                    },
+                    {
+                        "label": "AdsKeeper",
+                        "value": "AdsKeeper"
+                    },
+                    {
+                        "label": "AdSpyglass",
+                        "value": "AdSpyglass"
+                    },
+                    {
+                        "label": "AdsTargets",
+                        "value": "AdsTargets"
+                    },
+                    {
+                        "label": "Adsterra Advertising Network",
+                        "value": "Adsterra Advertising Network"
+                    },
+                    {
+                        "label": "AdStuff",
+                        "value": "AdStuff"
+                    },
+                    {
+                        "label": "Advertizer",
+                        "value": "Advertizer"
+                    },
+                    {
+                        "label": "ADxAD",
+                        "value": "ADxAD"
+                    },
+                    {
+                        "label": "AdXXX",
+                        "value": "AdXXX"
+                    },
+                    {
+                        "label": "Adz2you",
+                        "value": "Adz2you"
+                    },
+                    {
+                        "label": "Astrality",
+                        "value": "Astrality"
+                    },
+                    {
+                        "label": "BidMyAds",
+                        "value": "BidMyAds"
+                    },
+                    {
+                        "label": "Bidoven DSP",
+                        "value": "Bidoven DSP"
+                    },
+                    {
+                        "label": "BidsPush",
+                        "value": "BidsPush"
+                    },
+                    {
+                        "label": "Bidstalks",
+                        "value": "Bidstalks"
+                    },
+                    {
+                        "label": "Bidvance",
+                        "value": "Bidvance"
+                    },
+                    {
+                        "label": "BidVertiser",
+                        "value": "BidVertiser"
+                    },
+                    {
+                        "label": "BITAD",
+                        "value": "BITAD"
+                    },
+                    {
+                        "label": "Bitmedia",
+                        "value": "Bitmedia"
+                    },
+                    {
+                        "label": "CGTBY",
+                        "value": "CGTBY"
+                    },
+                    {
+                        "label": "ClickAdilla",
+                        "value": "ClickAdilla"
+                    },
+                    {
+                        "label": "Clickadu",
+                        "value": "Clickadu"
+                    },
+                    {
+                        "label": "Clickaine",
+                        "value": "Clickaine"
+                    },
+                    {
+                        "label": "ClickerMob",
+                        "value": "ClickerMob"
+                    },
+                    {
+                        "label": "ClickStar",
+                        "value": "ClickStar"
+                    },
+                    {
+                        "label": "Coinis",
+                        "value": "Coinis"
+                    },
+                    {
+                        "label": "Cointraffic",
+                        "value": "Cointraffic"
+                    },
+                    {
+                        "label": "Coinzilla",
+                        "value": "Coinzilla"
+                    },
+                    {
+                        "label": "CPC",
+                        "value": "CPC"
+                    },
+                    {
+                        "label": "CPX24",
+                        "value": "CPX24"
+                    },
+                    {
+                        "label": "CqrPush",
+                        "value": "CqrPush"
+                    },
+                    {
+                        "label": "Dable",
+                        "value": "Dable"
+                    },
+                    {
+                        "label": "Dao.AD",
+                        "value": "Dao.AD"
+                    },
+                    {
+                        "label": "DatsPush",
+                        "value": "DatsPush"
+                    },
+                    {
+                        "label": "Digital Hub",
+                        "value": "Digital Hub"
+                    },
+                    {
+                        "label": "DTXplatform",
+                        "value": "DTXplatform"
+                    },
+                    {
+                        "label": "Earnify",
+                        "value": "Earnify"
+                    },
+                    {
+                        "label": "Eonads",
+                        "value": "Eonads"
+                    },
+                    {
+                        "label": "Etology",
+                        "value": "Etology"
+                    },
+                    {
+                        "label": "EvaDav",
+                        "value": "EvaDav"
+                    },
+                    {
+                        "label": "ExoClick",
+                        "value": "ExoClick"
+                    },
+                    {
+                        "label": "ExoticAds",
+                        "value": "ExoticAds"
+                    },
+                    {
+                        "label": "EZmob",
+                        "value": "EZmob"
+                    },
+                    {
+                        "label": "Feeltapmedia",
+                        "value": "Feeltapmedia"
+                    },
+                    {
+                        "label": "Galaksion",
+                        "value": "Galaksion"
+                    },
+                    {
+                        "label": "Heartbid",
+                        "value": "Heartbid"
+                    },
+                    {
+                        "label": "HilltopAds",
+                        "value": "HilltopAds"
+                    },
+                    {
+                        "label": "HubTraffic",
+                        "value": "HubTraffic"
+                    },
+                    {
+                        "label": "IcyAds",
+                        "value": "IcyAds"
+                    },
+                    {
+                        "label": "InHouseAd",
+                        "value": "InHouseAd"
+                    },
+                    {
+                        "label": "JuicyAds",
+                        "value": "JuicyAds"
+                    },
+                    {
+                        "label": "Kadam",
+                        "value": "Kadam"
+                    },
+                    {
+                        "label": "KraigContent",
+                        "value": "KraigContent"
+                    },
+                    {
+                        "label": "Leads Kingdom",
+                        "value": "Leads Kingdom"
+                    },
+                    {
+                        "label": "Loco Widget",
+                        "value": "Loco Widget"
+                    },
+                    {
+                        "label": "LTV Ads",
+                        "value": "LTV Ads"
+                    },
+                    {
+                        "label": "LuckyAds",
+                        "value": "LuckyAds"
+                    },
+                    {
+                        "label": "MBS Info Solution",
+                        "value": "MBS Info Solution"
+                    },
+                    {
+                        "label": "Mediahub Exchange",
+                        "value": "Mediahub Exchange"
+                    },
+                    {
+                        "label": "MGID",
+                        "value": "MGID"
+                    },
+                    {
+                        "label": "Mirelia Networks",
+                        "value": "Mirelia Networks"
+                    },
+                    {
+                        "label": "mJupiter Communication",
+                        "value": "mJupiter Communication"
+                    },
+                    {
+                        "label": "MPVplayer",
+                        "value": "MPVplayer"
+                    },
+                    {
+                        "label": "MyBid",
+                        "value": "MyBid"
+                    },
+                    {
+                        "label": "Native Media",
+                        "value": "Native Media"
+                    },
+                    {
+                        "label": "OkamiAds",
+                        "value": "OkamiAds"
+                    },
+                    {
+                        "label": "OnClickA",
+                        "value": "OnClickA"
+                    },
+                    {
+                        "label": "Online Media Deals LLC",
+                        "value": "Online Media Deals LLC"
+                    },
+                    {
+                        "label": "OptiAds",
+                        "value": "OptiAds"
+                    },
+                    {
+                        "label": "PlugRush",
+                        "value": "PlugRush"
+                    },
+                    {
+                        "label": "PopAds",
+                        "value": "PopAds"
+                    },
+                    {
+                        "label": "PopCash",
+                        "value": "PopCash"
+                    },
+                    {
+                        "label": "Popnc.com",
+                        "value": "Popnc.com"
+                    },
+                    {
+                        "label": "PPCmate",
+                        "value": "PPCmate"
+                    },
+                    {
+                        "label": "PropellerAds",
+                        "value": "PropellerAds"
+                    },
+                    {
+                        "label": "PurpleAds",
+                        "value": "PurpleAds"
+                    },
+                    {
+                        "label": "Push.House",
+                        "value": "Push.House"
+                    },
+                    {
+                        "label": "PushGround",
+                        "value": "PushGround"
+                    },
+                    {
+                        "label": "Reacheffect",
+                        "value": "Reacheffect"
+                    },
+                    {
+                        "label": "Reklama.network",
+                        "value": "Reklama.network"
+                    },
+                    {
+                        "label": "RichAds",
+                        "value": "RichAds"
+                    },
+                    {
+                        "label": "RingRanger",
+                        "value": "RingRanger"
+                    },
+                    {
+                        "label": "RollerAds",
+                        "value": "RollerAds"
+                    },
+                    {
+                        "label": "Seedotoo",
+                        "value": "Seedotoo"
+                    },
+                    {
+                        "label": "Shaft Traffic",
+                        "value": "Shaft Traffic"
+                    },
+                    {
+                        "label": "SkipperX",
+                        "value": "SkipperX"
+                    },
+                    {
+                        "label": "Stop Go Networks",
+                        "value": "Stop Go Networks"
+                    },
+                    {
+                        "label": "Suomzilla",
+                        "value": "Suomzilla"
+                    },
+                    {
+                        "label": "Taboola",
+                        "value": "Taboola"
+                    },
+                    {
+                        "label": "TacoLoco",
+                        "value": "TacoLoco"
+                    },
+                    {
+                        "label": "ThePopAds",
+                        "value": "ThePopAds"
+                    },
+                    {
+                        "label": "TONIC.com",
+                        "value": "TONIC.com"
+                    },
+                    {
+                        "label": "Traffic Bull",
+                        "value": "Traffic Bull"
+                    },
+                    {
+                        "label": "Traffic Factory",
+                        "value": "Traffic Factory"
+                    },
+                    {
+                        "label": "Traffic Nomads",
+                        "value": "Traffic Nomads"
+                    },
+                    {
+                        "label": "TrafficAdzy",
+                        "value": "TrafficAdzy"
+                    },
+                    {
+                        "label": "Trafficbets",
+                        "value": "Trafficbets"
+                    },
+                    {
+                        "label": "TrafficForce",
+                        "value": "TrafficForce"
+                    },
+                    {
+                        "label": "TrafficHunt",
+                        "value": "TrafficHunt"
+                    },
+                    {
+                        "label": "TrafficJunky",
+                        "value": "TrafficJunky"
+                    },
+                    {
+                        "label": "TrafficShop",
+                        "value": "TrafficShop"
+                    },
+                    {
+                        "label": "TrafficStars",
+                        "value": "TrafficStars"
+                    },
+                    {
+                        "label": "Traffix Capital",
+                        "value": "Traffix Capital"
+                    },
+                    {
+                        "label": "Traforama",
+                        "value": "Traforama"
+                    },
+                    {
+                        "label": "TubeCorporate",
+                        "value": "TubeCorporate"
+                    },
+                    {
+                        "label": "UngAds",
+                        "value": "UngAds"
+                    },
+                    {
+                        "label": "Vimmy",
+                        "value": "Vimmy"
+                    },
+                    {
+                        "label": "Voluum DSP",
+                        "value": "Voluum DSP"
+                    },
+                    {
+                        "label": "Wiget",
+                        "value": "Wiget"
+                    },
+                    {
+                        "label": "Wind Traffic",
+                        "value": "Wind Traffic"
+                    },
+                    {
+                        "label": "XmlPPC",
+                        "value": "XmlPPC"
+                    },
+                    {
+                        "label": "ylliX",
+                        "value": "ylliX"
+                    },
+                    {
+                        "label": "Zeropark",
+                        "value": "Zeropark"
+                    }
+                ],
+                "type": "select",
+                "columns": [
+                    "offer"
+                ],
+                "strict": "no",
+                "title": "Networks",
+                "select_value_type": "manual",
+                "filter_prefix": " \ud83d\udd0d Search by Networks",
+                "name": "ninja_filter_0"
+            },
+            "ninja_filter_1": {
+                "placeholder": "All",
+                "options": [
+                    {
+                        "label": "$100",
+                        "value": "$100"
+                    },
+                    {
+                        "label": "$50",
+                        "value": "$50"
+                    },
+                    {
+                        "label": "$500",
+                        "value": "$500"
+                    },
+                    {
+                        "label": "$1000",
+                        "value": "$1000"
+                    }
+                ],
+                "type": "select",
+                "columns": [
+                    "offer"
+                ],
+                "strict": "no",
+                "title": "Category",
+                "select_value_type": "manual",
+                "dynamic_select_column": "offer",
+                "name": "ninja_filter_1",
+                "filter_operator": "less",
+                "filter_value_prefix": "",
+                "filter_prefix": "\ud83d\udd0d  Search by Min Deposit"
+            },
+            "ninja_filter_2": {
+                "placeholder": "All",
+                "options": [
+                    {
+                        "label": "CPC",
+                        "value": "CPC"
+                    },
+                    {
+                        "label": "CPM",
+                        "value": "CPM"
+                    },
+                    {
+                        "label": "CPA",
+                        "value": "CPA"
+                    },
+                    {
+                        "label": "RTB",
+                        "value": "RTB"
+                    },
+                    {
+                        "label": "CPL",
+                        "value": "CPL"
+                    },
+                    {
+                        "label": "SmartCPA",
+                        "value": "SmartCPA"
+                    },
+                    {
+                        "label": "CPV",
+                        "value": "CPV"
+                    },
+                    {
+                        "label": "Banner Ad",
+                        "value": "Banner"
+                    },
+                    {
+                        "label": "Push Ad",
+                        "value": "Push"
+                    },
+                    {
+                        "label": "Native Ad",
+                        "value": "Native"
+                    },
+                    {
+                        "label": "Video Ad",
+                        "value": "Video"
+                    },
+                    {
+                        "label": "Popunder Ad",
+                        "value": "Popunder"
+                    },
+                    {
+                        "label": "Interstitial Ad",
+                        "value": "Interstitial"
+                    },
+                    {
+                        "label": "In-Page Push Ad",
+                        "value": "In-Page Push"
+                    },
+                    {
+                        "label": "Skimmed Ad",
+                        "value": "Skimmed"
+                    },
+                    {
+                        "label": "Calendar Notifications Ad",
+                        "value": "Calendar Notifications"
+                    },
+                    {
+                        "label": "Direct Link Ad",
+                        "value": "Direct Link"
+                    }
+                ],
+                "type": "select",
+                "columns": [
+                    "offer"
+                ],
+                "strict": "no",
+                "title": "Search by Cost & AD Model",
+                "filter_prefix": "\ud83d\udd0d Search by Cost & AD",
+                "select_value_type": "manual",
+                "name": "ninja_filter_2",
+                "is_multi_select": "yes"
+            },
+            "ninja_filter_3": {
+                "placeholder": "All",
+                "options": [
+                    {
+                        "label": "5 \u2605Stars",
+                        "value": "5.0"
+                    },
+                    {
+                        "label": "4.9 \u2605Stars",
+                        "value": "4.9"
+                    },
+                    {
+                        "label": "4.8 \u2605Stars",
+                        "value": "4.8"
+                    },
+                    {
+                        "label": "4.7 \u2605Stars",
+                        "value": "4.7"
+                    },
+                    {
+                        "label": "4.6 \u2605Stars",
+                        "value": "4.6"
+                    },
+                    {
+                        "label": "4.5 \u2605Stars",
+                        "value": "4.5"
+                    },
+                    {
+                        "label": "4.4 \u2605Stars",
+                        "value": "4.4"
+                    },
+                    {
+                        "label": "4.3 \u2605Stars",
+                        "value": "4.3"
+                    },
+                    {
+                        "label": "4.2 \u2605Stars",
+                        "value": "4.2 "
+                    },
+                    {
+                        "label": "4.1 \u2605Stars",
+                        "value": "4.1"
+                    },
+                    {
+                        "label": "4.0 \u2605Stars",
+                        "value": "4.0"
+                    },
+                    {
+                        "label": "3.9 \u2605Stars",
+                        "value": "3.9"
+                    },
+                    {
+                        "label": "3.8 \u2605Stars",
+                        "value": "3.8 "
+                    },
+                    {
+                        "label": "3.7 \u2605Stars",
+                        "value": "3.7"
+                    },
+                    {
+                        "label": "3.6 \u2605Stars",
+                        "value": "3.6"
+                    },
+                    {
+                        "label": "3.5 \u2605Stars",
+                        "value": "3.5"
+                    }
+                ],
+                "type": "select",
+                "columns": [
+                    "country"
+                ],
+                "strict": "yes",
+                "title": "\ud83d\udd0d Search by Rating",
+                "filter_prefix": "\ud83d\udd0d Search by Rating",
+                "select_value_type": "manual",
+                "name": "ninja_filter_3"
+            }
+        },
+        "_ninja_custom_filter_styling": {
+            "filter_display_type": "columns",
+            "filter_columns": "columns_4",
+            "filter_column_label": "new_line",
+            "progressive": "no"
+        },
+        "_ninja_tables_data_migrated_for_manual_sort": "1",
+        "_ninja_table_caption": "",
+        "__last_ninja_table_last_cached_time": "1713363420"
+    },
+    "rows": [],
+    "original_rows": [
+        {
+            "position": "107",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Galaksion-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Galaksion.jpg",
+                    "alt_text": "Galaksion"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/propellerads\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 <\/strong><\/a><\/span><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/galaksion\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>Galaksion<\/strong><\/a><\/span><\/h6>\n<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/propellerads\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong><\/strong><\/a><\/span><\/h6>\n<p>Galaksion is a global advertising network that brings adverti.... <a href=\"https:\/\/affwebsite.com\/galaksion\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Popunder, Native, Interstitial, Mobile Push-up<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($50) -- Daily Impression: (1 billion) -- Cost Model: (CPC, CPM, CPA)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.7\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">3 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/galaksion\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/galaksion.com"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 16:38:02"
+        },
+        {
+            "position": "108",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/EZmob-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/EZmob.jpg",
+                    "alt_text": "EZmob"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/ezmob\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 <\/strong><\/a><\/span><a href=\"https:\/\/affwebsite.com\/ezmob\/\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 14px; color: #0000ff;\">EZmob<\/span><\/a><\/h6>\n<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/propellerads\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong><\/strong><\/a><\/span><\/h6>\n<p>EZmob is a self-serve mobile advertising platform with pre.... <a href=\"https:\/\/affwebsite.com\/ezmob\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Native, Push, Banner, Popunder<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (5 billion) -- Cost Model: (CPC, CPM)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.9\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/ezmob\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/ezmob.com\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 16:25:27"
+        },
+        {
+            "position": "104",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/EvaDav-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/EvaDav.jpg",
+                    "alt_text": "EvaDav"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/evadav\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 EvaDav<\/strong><\/a><\/span><\/h6>\n<p>EvaDav is a client-oriented native advertising company in... <a href=\"https:\/\/affwebsite.com\/evadav\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: In-Page Push, Native, Video pre-rolls, Banner...<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (1 billion) -- Cost Model: (CPA, CPI...)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.8\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/evadav\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/refadav.com\/?ref=R5lzZIoUpSTFhAbUuktBlEWxfqUB8h9X"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 16:28:19"
+        },
+        {
+            "position": "57",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Suomzilla-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Suomzilla.jpg",
+                    "alt_text": "Suomzilla"
+                },
+                "offer": "<p><span style=\"font-size: 14px; color: #0000ff;\"><strong><a href=\"https:\/\/affwebsite.com\/suomzilla\" target=\"_blank\" rel=\"noopener\">\u27a2\u00a0 Suomzilla\u00a0<\/a>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<\/strong><\/span><\/p>\n<p><br \/>Suomzilla is an advertising network dedicated to assistin... <a href=\"https:\/\/affwebsite.com\/suomzilla\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Popunder, Push, Native<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (N\/A) -- Cost Model: (CPM, CPC)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.9\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">3 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/suomzilla\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/suomzilla.com\/?utm_source=affwebsite"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-04-15 05:53:33"
+        },
+        {
+            "position": "106",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/BITAD-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/BITAD.jpg",
+                    "alt_text": "BITAD"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/bitad\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 BITAD<\/strong><\/a><\/span><\/h6>\n<p>A multisource advertising platform for your web contents... <a href=\"https:\/\/affwebsite.com\/bitad\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Push, Pop, Video, Interstitial, Sliding banner...<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($10) -- Daily Impression: (1 billion) -- Cost Model: (CPC, CPM )<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.8\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">5 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/bitad\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/bitad.org"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 16:31:10"
+        },
+        {
+            "position": "105",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/AdStuff-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/AdStuff.jpg",
+                    "alt_text": "AdStuff"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/adStuff\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 AdStuff<\/strong><\/a><\/span><\/h6>\n<p>AdStuff is the next gen is a premium self-serve ad network.... <a href=\"https:\/\/affwebsite.com\/adStuff\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Push, Popup, Video, Banners, Direct Link, E-mail<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($200) -- Daily Impression: (250 billion) -- Cost Model: (CPC, CPA...<\/strong><\/span><span style=\"font-size: 12px;\"><strong>)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.7\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">1 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/adstuff\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/adstuff.io"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 16:30:18"
+        },
+        {
+            "position": "103",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Adlane-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Adlane.jpg",
+                    "alt_text": "Adlane"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/adlane\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Adlane<\/strong><\/a><\/span><\/h6>\n<p>Adlane.info is advertising platform for website monetizatio... <a href=\"https:\/\/affwebsite.com\/adlane\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: , Popup, Video, Native, Push, Popunder<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (20 million) -- Cost Model: (CPC, CPM)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.6\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">3 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/adlane\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/publishers.adlane.info"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 11:55:30"
+        },
+        {
+            "position": "102",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Reacheffect-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Reacheffect.jpg",
+                    "alt_text": "Reacheffect"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/reacheffect\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Reacheffect<\/strong><\/a><\/span><\/h6>\n<p>Reacheffect is a mobile advertising platform in leading Wo ... <a href=\"https:\/\/affwebsite.com\/reacheffect\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Pop, Push, Banner, Native<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (150 million) -- Cost Model: (CPA, CPC...)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.7\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">5 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/reacheffect\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/www.reacheffect.com\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 11:54:35"
+        },
+        {
+            "position": "59",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/propeller-ads-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/propeller-ads.jpg",
+                    "alt_text": "propeller ads"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/propellerads\/\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 PropellerAds<\/strong><\/a><\/span><\/h6>\n<p>A multisource advertising platform called PropellerAds Fan... <a href=\"https:\/\/affwebsite.com\/propellerads\/\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: In-Page Push, Popunder, Interstitial<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (12 billion) -- Cost Model: (CPC, CPM...)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.9\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">14 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/propellerads\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/propush.me\/?ref_id=n0xR"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-03-02 11:34:02"
+        },
+        {
+            "position": "69",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Adnet.Cash_-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Adnet.Cash_.jpg",
+                    "alt_text": "Adnet.Cash"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/adnetcash\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Adnet.Cash<\/strong><\/a><\/span><\/h6>\n<p>Adnet.Cash is an adult short-link ads popunders network.... <a href=\"https:\/\/affwebsite.com\/adnetcash\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Popunder, Banner , Interstitial<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($1) -- Daily Impression: (N\/A) -- Cost Model: (CPM)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.6\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/adnetcash\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "http:\/\/adnet.cash\/ref\/affwebsite"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 06:36:25"
+        },
+        {
+            "position": "100",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Adavice-DSP-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Adavice-DSP.jpg",
+                    "alt_text": "Adavice DSP"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/adavicedsp\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Adavice DSP<\/strong><\/a><\/span><\/h6>\n<p>Adavice Platform offering you the greatest traffic worldwide... <a href=\"https:\/\/affwebsite.com\/adavicedsp\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Calendar Notifications, Native, Display, Banners...<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($200) -- Daily Impression: (3 billion) -- Cost Model: (CPM, CPC)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.8\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">3 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/adavicedsp\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/adavice.com\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 11:37:11"
+        },
+        {
+            "position": "99",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/RichAds-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/RichAds.jpg",
+                    "alt_text": "RichAds"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/richads\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 RichAds<\/strong><\/a><\/span><\/h6>\n<p>RichAds With a global self-serve performance ad platform.... <a href=\"https:\/\/affwebsite.com\/richads\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Push, Popunder<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (4 billion) -- Cost Model: (CPM, CPC)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.8\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/richads\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/new.my.richads.com\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 11:35:06"
+        },
+        {
+            "position": "62",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Push.House_-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Push.House_.jpg",
+                    "alt_text": "Push.House"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/pushhouse\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Push.House<\/strong><\/a><\/span><\/h6>\n<p>Push House Network is for leaders in internet advertising... <a href=\"https:\/\/affwebsite.com\/pushhouse\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Push<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($50) -- Daily Impression: (11 billion) -- Cost Model: (CPC)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.9\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/pushhouse\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/push.house\/id63506"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-08 03:22:23"
+        },
+        {
+            "position": "98",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Traffic-Nomads-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Traffic-Nomads.jpg",
+                    "alt_text": "Traffic Nomads"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/trafficnomads\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Traffic Nomads<\/strong><\/a><\/span><\/h6>\n<p>TrafficNomads was created to support advertisers multiso... <a href=\"https:\/\/affwebsite.com\/trafficnomads\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Push, Pops, InPage, Calendar, Banner, Native<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($50) -- Daily Impression: (N\/A billion) -- Cost Model: (CPC)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.7\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/trafficnomads\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/partners.trafficnomads.com\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 11:30:41"
+        },
+        {
+            "position": "97",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/AdCalm-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/AdCalm.jpg",
+                    "alt_text": "AdCalm"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/adcalm\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 AdCalm<\/strong><\/a><\/span><\/h6>\n<p><span>AdCalm is a created to help advertisers and trustworthy ad. <\/span>... <a href=\"https:\/\/affwebsite.com\/adcalm\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Popup, Popunder, Banner<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (N\/A) -- Cost Model: (CPM)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.6\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">3 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/adcalm\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "http:\/\/adcalm.com\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 11:25:08"
+        },
+        {
+            "position": "96",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/ylliX-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/ylliX.jpg",
+                    "alt_text": "ylliX"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/yllix\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 ylliX<\/strong><\/a><\/span><\/h6>\n<p>Iternational ad networks works for RevShare (share) model... <a href=\"https:\/\/affwebsite.com\/yllix\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: N\/A<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: (N\/A) -- Daily Impression: (N\/A) -- Cost Model: (N\/A)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.6\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">0 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/yllix\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/yllix.com\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 22:18:59"
+        },
+        {
+            "position": "95",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Mirelia-Networks-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Mirelia-Networks.jpg",
+                    "alt_text": "Mirelia Networks"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/mirelianetworks\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Mirelia Networks<\/strong><\/a><\/span><\/h6>\n<p>Mirelia networks have built a smart advertising solution... <a href=\"https:\/\/affwebsite.com\/mirelianetworks\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Banner, Push, Popunder<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (60 billion) -- Cost Model: (CPM, CPC)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.6\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">0 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/mirelianetworks\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/mirelia.co\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 22:21:03"
+        },
+        {
+            "position": "64",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/PPCmate-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/PPCmate.jpg",
+                    "alt_text": "PPCmate"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/ppcmate\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 PPCmate<\/strong><\/a><\/span><\/h6>\n<p>A multisource advertising platform called PropellerAds Fan... <a href=\"https:\/\/affwebsite.com\/ppcmate\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Push, Popup, Popunder, Interstitial, Banner, Native<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($25) -- Daily Impression: (N\/A) -- Cost Model: (CPV, CPC, CPM)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.6\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/ppcmate\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/www.ppcmate.com\/#partner=6439556046632&banner=36a6fcd4"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-18 22:33:55"
+        },
+        {
+            "position": "86",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Trafficshop-1-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Trafficshop-1.jpg",
+                    "alt_text": "Trafficshop"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/trafficshop\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Trafficshop<\/strong><\/a><\/span><\/h6>\n<p>Trafficshop is an international an online traffic platform..... <a href=\"https:\/\/affwebsite.com\/trafficshop\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Banner, Popunder, Skimmed, Native<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Impression: (5 billion) -- Cost Model: (CPM, CPC)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.9\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\"><a href=\"https:\/\/affwebsite.com\/trafficshop\/#comments\" onclick=\"window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=500,height=600'); return false;\" rel=\"noopener\" target=\"_blank\">Write a Review<\/a><\/span><\/strong><\/span><\/span><\/h6>",
+                "link": "https:\/\/www.trafficshop.com\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 08:33:20"
+        },
+        {
+            "position": "58",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Coinzilla-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Coinzilla.jpg",
+                    "alt_text": "Coinzilla"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/coinzilla\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Coinzilla<\/strong><\/a><\/span><\/h6>\n<p>Coinzilla Advertising Network is part of Technology compa... <a href=\"https:\/\/affwebsite.com\/coinzilla\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Banner, Popunder, Native<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (5 billion) -- Cost Model: (CPC, CPM)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.9\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">10 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/coinzilla\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/coinzilla.com\/ref\/304643375d30a8bb632"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-04-15 05:54:11"
+        },
+        {
+            "position": "85",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Shaft-Traffic-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Shaft-Traffic.jpg",
+                    "alt_text": "Shaft Traffic"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/shafttraffic\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Shaft Traffic<\/strong><\/a><\/span><\/h6>\n<p><span>Shaft Traffic offers both high-quality and large volumes<\/span>... <a href=\"https:\/\/affwebsite.com\/shafttraffic\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: In-Page Push, Popunder, Interstitial<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (12 billion) -- Cost Model: (CPC, CPM...)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.9\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">3 Reviews<\/span><\/strong><br \/><br \/><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\"><a href=\"https:\/\/affwebsite.com\/shafttraffic\/#comments\" onclick=\"window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=500,height=600'); return false;\" rel=\"noopener\" target=\"_blank\">Write a Review<\/a><\/span><\/strong><\/span><\/span><\/h6>",
+                "link": "https:\/\/shafttraffic.com\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 08:30:11"
+        },
+        {
+            "position": "84",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Adsterra-Advertising-Network-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Adsterra-Advertising-Network.jpg",
+                    "alt_text": "Adsterra Advertising Network"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/adsterra\/\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Adsterra Advertising Network<\/strong><\/a><\/span><\/h6>\n<p>Adsterra is a advertising network with Partner Care approa... <a href=\"https:\/\/affwebsite.com\/adsterra\/\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Banner, Popunder , Social Bar, Native , In-Page Push<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (30 billion) -- Cost Model: (RTB, CPC...)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.9\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/adsterra\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/adsterra.com\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 22:23:46"
+        },
+        {
+            "position": "82",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/UngAds-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/UngAds.jpg",
+                    "alt_text": "UngAds"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/UngAds\/\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 UngAds<\/strong><\/a><\/span><\/h6>\n<p>UngAds, a network of ads is a new source of traffic? New... <a href=\"https:\/\/affwebsite.com\/UngAds\/\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Popunder, Video, Banner, Native, Push<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (290 million) -- Cost Model: (CPA, CPM...)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.7\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/ungads\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/ungads.com"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 22:24:32"
+        },
+        {
+            "position": "81",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/TacoLoco-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/TacoLoco.jpg",
+                    "alt_text": "TacoLoco"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/tacoLoco\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 TacoLoco<\/strong><\/a><\/span><\/h6>\n<p>TacoLoco has publicly launched new advertising network... <a href=\"https:\/\/affwebsite.com\/tacoLoco\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Push<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (5 billion) -- Cost Model: (CPC)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.9\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/tacoloco\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/tacolo.co"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 22:25:27"
+        },
+        {
+            "position": "80",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/ExoticAds-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/ExoticAds.jpg",
+                    "alt_text": "ExoticAds"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/exoticads\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Exotic Ads<\/strong><\/a><\/span><\/h6>\n<p>Exotic Ads is an optimized adult\/dated ad\u00a0 network... <a href=\"https:\/\/affwebsite.com\/exoticads\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Banner<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($20) -- Daily Impression: (N\/A) -- Cost Model: (CPC)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>3.9\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605<span style=\"color: #000000;\">\u2605<\/span><\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">0 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/exoticads\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/exoticads.com"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 22:26:21"
+        },
+        {
+            "position": "79",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Adshares-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Adshares.jpg",
+                    "alt_text": "Adshares"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/adshares\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Adshares<\/strong><\/a><\/span><\/h6>\n<p>Adshares is a platform\u00a0 for decentralised advertising .... <a href=\"https:\/\/affwebsite.com\/adshares\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Banner, Popunder, Popup<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: (No) -- Daily Impression: (2 million) -- Cost Model: (CPM, CPA...<\/strong><\/span><span style=\"font-size: 12px;\"><strong>)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.9\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">1 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/adshares\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/adshares.net\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 22:26:57"
+        },
+        {
+            "position": "78",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Mediahub-Exchange-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Mediahub-Exchange.jpg",
+                    "alt_text": "Mediahub Exchange"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/mediahubexchange\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Mediahub Exchange<\/strong><\/a><\/span><\/h6>\n<p>Mediahub Exchange is a platform to advertiser with content... <a href=\"https:\/\/affwebsite.com\/mediahubexchange\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Banner, Popunder, Page Takeovers, Messenger Pop<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($15) -- Daily Impression: (N\/A) -- Cost Model: (CPM)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.6\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">0 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/mediahubexchange\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "http:\/\/www.mediahub.com\/solutions\/exchange"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 22:28:16"
+        },
+        {
+            "position": "61",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Pushground-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Pushground.jpg",
+                    "alt_text": "Pushground"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/pushground\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Pushground<\/strong><\/a><\/span><\/h6>\n<p>Pushground is base on Push Traffic Platform... <a href=\"https:\/\/affwebsite.com\/pushground\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push:\u00a0 Push<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (400 million) -- Cost Model: (CPC)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.8\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">6 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/pushground\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/app.pushground.com\/register?invitation=33CQw7AF4m9nC%2FRcwT9mJw%3D%3D"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-08 03:18:11"
+        },
+        {
+            "position": "77",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/PopCash-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/PopCash.jpg",
+                    "alt_text": "PopCash"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/popcash\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 PopCash<\/strong><\/a><\/span><\/h6>\n<p>PopCash is a pop-under effective advertising website... <a href=\"https:\/\/affwebsite.com\/popcash\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Popunder<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($5) -- Daily Impression: (100 million) -- Cost Model: (CPM)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.6\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">1 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/popcash\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/popcash.net\/home"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-08 03:33:56"
+        },
+        {
+            "position": "75",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/JuicyAds-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/JuicyAds.jpg",
+                    "alt_text": "JuicyAds"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/juicyads\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 JuicyAds<\/strong><\/a><\/span><\/h6>\n<p>One of the Top 10 Adult Ad Networks in the World is JuicyAds... <a href=\"https:\/\/affwebsite.com\/juicyads\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Banner, Popunder<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (600 million) -- Cost Model: (CPM, <\/strong><\/span><span style=\"font-size: 12px;\"><strong>CPC<\/strong><\/span><span style=\"font-size: 12px;\"><strong>)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>0.0\u00a0 <span style=\"color: #999999;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">0 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/juicyads\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/manage.juicyads.com"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-08 03:32:53"
+        },
+        {
+            "position": "56",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/BidVertiser-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/BidVertiser.jpg",
+                    "alt_text": "BidVertiser"
+                },
+                "offer": "<p><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/bidvertiser\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 BidVertiser\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<\/strong><span style=\"color: #ff0000;\"><em>Sponsored Ad<\/em><\/span><\/a><\/span><\/p>\n<p>BidVertiser is a self-serve advertising platform... <a href=\"https:\/\/affwebsite.com\/bidvertiser\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Native, Direct Ads, Push, Popunder<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (400 million) -- Cost Model: (CPV)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>5.0\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/bidvertiser\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "http:\/\/7l8t0.bemobtrcks.com\/go\/2b2f050a-53e6-4535-8990-0db25eeecbaa"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-04-15 05:49:41"
+        },
+        {
+            "position": "60",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/PopAds-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/PopAds.jpg",
+                    "alt_text": "PopAds"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/popads\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 PopAds<\/strong><\/a><\/span><\/h6>\n<p>PopAds is the highest-paying specialty advertising network.... <a href=\"https:\/\/affwebsite.com\/popads\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: , Tabunder, Tabup, Popunder, Popup<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($10) -- Daily Impression: (N\/A) -- Cost Model: (CPV)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.9\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">14 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/popads\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/www.popads.net\/users\/refer\/3362192"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-08 03:16:50"
+        },
+        {
+            "position": "74",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Clickadu-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Clickadu.jpg",
+                    "alt_text": "Clickadu"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/clickadu\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Clickadu<\/strong><\/a><\/span><\/h6>\n<p>Clickadu is a digital advertising network with a varieties... <a href=\"https:\/\/affwebsite.com\/clickadu\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: \u00a0Banner, SKIM, Push, Popunder, Video<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (4 billion) -- Cost Model: (SmartCPA...)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.6\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/clickadu\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/www.clickadu.com\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-08 03:32:12"
+        },
+        {
+            "position": "73",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Taboola-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Taboola.jpg",
+                    "alt_text": "Taboola"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/taboola\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Taboola<\/strong><\/a><\/span><\/h6>\n<p>Taboola is top and highest paying leading discovery platform... <a href=\"https:\/\/affwebsite.com\/taboola\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Native, Rich Media<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (5 billion) -- Cost Model: (CPC)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.9\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">3 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/taboola\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/www.taboola.com\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-08 03:31:31"
+        },
+        {
+            "position": "63",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/ClickAdilla-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/ClickAdilla.jpg",
+                    "alt_text": "ClickAdilla"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/clickadilla\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 ClickAdilla<\/strong><\/a><\/span><\/h6>\n<p>ClickAdilla is a ad network that provides related traffic... <a href=\"https:\/\/affwebsite.com\/clickadilla\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Popunder,Banners, In-stream, Out stream, Video...<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($50) -- Daily Impression: (4.5 billion) -- Cost Model: (CPA, CPM...)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.9\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/clickadilla\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/clickadilla.com\/?ref=e4SUBK5F"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-18 22:26:03"
+        },
+        {
+            "position": "66",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/AdMaven-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/AdMaven.jpg",
+                    "alt_text": "AdMaven"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/admaven\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 AdMaven<\/strong><\/a><\/span><\/h6>\n<p>AdMaven is a helpful for Mobile &amp; Web direct traffic... <a href=\"https:\/\/affwebsite.com\/admaven\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Popunder, Interstitial, Banner, Push notification<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($50) -- Daily Impression: (2 billion) -- Cost Model: (CPC, CPA, CPM)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.7 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/admaven\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/panel.ad-maven.com\/advertiser\/signup?ref=219402"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-08 03:25:00"
+        },
+        {
+            "position": "72",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Dao.Ad_-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Dao.Ad_.jpg",
+                    "alt_text": "Dao.Ad"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/daoad\/\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Dao.Ad<\/strong><\/a><\/span><\/h6>\n<p>Dao.Ad is an advertising platform that provides mutually... <a href=\"https:\/\/affwebsite.com\/daoad\/\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Push, Popunder, Video, Native<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($20) -- Daily Impression: (400 million) -- Cost Model: (CPC, CPA...)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.6\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">4 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/daoad\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "http:\/\/dao.ad"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 06:44:00"
+        },
+        {
+            "position": "67",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/HilltopAds-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/HilltopAds.jpg",
+                    "alt_text": "HilltopAds"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/hilltopads\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 HilltopAds<\/strong><\/a><\/span><\/h6>\n<p>HilltopAds is a global multi-source advertising platform... <a href=\"https:\/\/affwebsite.com\/hilltopads\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Video pre-rolls, In-Page Push, Push,Popunder<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($50) -- Daily Impression: (200 million) -- Cost Model: (CPL, RTB...)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.8\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/hilltopads\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/hilltopads.com\/?ref=194066"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-08 03:26:03"
+        },
+        {
+            "position": "76",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/RollerAds-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/RollerAds.jpg",
+                    "alt_text": "RollerAds"
+                },
+                "offer": "<p><span style=\"font-size: 14px; color: #0000ff;\"><strong><a href=\"https:\/\/affwebsite.com\/rollerads\" target=\"_blank\" rel=\"noopener\">\u27a2\u00a0 RollerAds\u00a0<\/a>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0<\/strong><\/span><strong><\/strong><\/p>\n<p>&nbsp;<\/p>\n<p>RollerAds is an advertising platform with top-performing... <a href=\"https:\/\/affwebsite.com\/rollerads\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Push Notifications, , On click Calendars, In Page Push<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($50) -- Daily Impression: (2 billion) -- Cost Model: (CPM, CPA...)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.6\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/rollerads\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/rollerads.com\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-03-02 11:45:46"
+        },
+        {
+            "position": "65",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Adnium-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Adnium.jpg",
+                    "alt_text": "Adnium"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/adnium\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Adnium<\/strong><\/a><\/span><\/h6>\n<p>Adnium is a self-serve platform selling online advertising... <a href=\"https:\/\/affwebsite.com\/adnium\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Banner, Video, Popunder<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($50) -- Daily Impression: (N\/A) -- Cost Model: (CPC, CPM, CPA)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.6\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/adnium\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/adnium.com\/ref\/13533?sub=affwebsite"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-08 03:24:22"
+        },
+        {
+            "position": "71",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/rafficstars-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/rafficstars.jpg",
+                    "alt_text": "rafficstars"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/trafficstars\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 <\/strong><\/a><strong><a href=\"https:\/\/affwebsite.com\/trafficstars\/\" class=\"\">TrafficStars<\/a><\/strong><\/span><\/h6>\n<p>TrafficStars provides top solutions for advertisers and publishers... <a href=\"https:\/\/affwebsite.com\/trafficstars\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Banner, Popunder, Push, In-Page Push, Native, Video<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (5 billion) -- Cost Model: (CPC, CPM...)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.5\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">1 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/trafficstars\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/trafficstars.com\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-08 03:29:25"
+        },
+        {
+            "position": "101",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/activerevenue-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/activerevenue.jpg",
+                    "alt_text": "activerevenue"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/propellerads\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 <a href=\"https:\/\/affwebsite.com\/activerevenue\" class=\"\">ActiveRevenue<\/a><\/strong><\/a><\/span><\/h6>\n<p>ActiveRevenue gives advertisers access to high-performing.... <a href=\"https:\/\/affwebsite.com\/activerevenue\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Push, Redirect, Popunder<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (1 billion) -- Cost Model: (CPM, CPC)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.6\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">3 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/activerevenue\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/ui.activerevenue.com\/pages\/login.php#signup?ref=219400"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 11:53:22"
+        },
+        {
+            "position": "70",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/ADxAD-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/ADxAD.jpg",
+                    "alt_text": "ADxAD"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/adxad\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 ADxAD<\/strong><\/a><\/span><\/h6>\n<p>Adxad is a multi-source online advertising platform... <a href=\"https:\/\/affwebsite.com\/adxad\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: In-Page Push, Popunder, Interstitial<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (3 billion) -- Cost Model: (CPM, CPC)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>0.0\u00a0 <span style=\"color: #999999;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">0 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/adxad\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/pub.adxad.com\/auth\/register\/50$giftforpublishers?lang=en"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-08 03:28:54"
+        },
+        {
+            "position": "68",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Etology-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/Etology.jpg",
+                    "alt_text": "Etology"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/etology\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 Etology<\/strong><\/a><\/span><\/h6>\n<p>Etology is best marketplace for both advertisers and publi.... <a href=\"https:\/\/affwebsite.com\/etology\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: , Banner, Email, Native, Push, Popunder, Popup<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($250) -- Daily Impression: (1 billion) -- Cost Model: (CPM, CPC)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.6\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">2 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/etology\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "https:\/\/admin.etology.com\/signup\/getting-started?referral=affwebsite"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-08 03:27:17"
+        },
+        {
+            "position": "89",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/AdForGames-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/02\/AdForGames.jpg",
+                    "alt_text": "AdForGames"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/adforgames\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 AdForGames<\/strong><\/a><\/span><\/h6>\n<p>AdForGames.com is a network of banner ads for Game... <a href=\"https:\/\/affwebsite.com\/adforgames\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: Sitekine, Banner, Anchor<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($50) -- Daily Impression: (N\/A) -- Cost Model: (CPC)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>4.6\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">3 Reviews<\/span><\/strong><br \/><br \/><a href=\"https:\/\/affwebsite.com\/adforgames\/#comments\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\">Write a Review<\/span><\/strong><\/span><\/span><\/a><\/h6>",
+                "link": "http:\/\/www.adforgames.com\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 11:24:21"
+        },
+        {
+            "position": "83",
+            "owner_id": "1",
+            "attribute": "value",
+            "value": {
+                "network": {
+                    "permalink": "",
+                    "image_thumb": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/09\/MyBid-1-300x128.jpg",
+                    "image_full": "https:\/\/affwebsite.com\/wp-content\/uploads\/2023\/09\/MyBid-1.jpg",
+                    "alt_text": "my bid"
+                },
+                "offer": "<h6><span style=\"font-size: 14px; color: #0000ff;\"><a href=\"https:\/\/affwebsite.com\/mybid\/\" rel=\"noopener\" target=\"_blank\" style=\"color: #0000ff;\"><strong>\u27a2\u00a0 MyBids<\/strong><\/a><\/span><\/h6>\n<p><span>My Bid is a worldwide ad network that makes the affiliate mar<\/span>.... <a href=\"https:\/\/affwebsite.com\/mybid\/\" rel=\"noopener\" target=\"_blank\">See More<\/a><\/p>\n<p><span style=\"color: #5e819f;\">Ad Format Push: , Popup, Native, Video, Banner, Push, In-page<\/span><\/p>\n<h6><span style=\"font-size: 12px;\"><strong>Min Deposit: ($100) -- Daily Impression: (5 Billion) -- Cost Model: (CPC, CPM)<\/strong><\/span><\/h6>",
+                "country": "<h6 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>5.0\u00a0 <span style=\"color: #ff6600;\">\u2605\u2605\u2605\u2605\u2605<\/span><\/strong><\/span><br \/><br \/><strong><span style=\"font-size: 11px; color: #5e819f;\">5 Reviews<\/span><\/strong><br \/><br \/><span style=\"font-size: 12px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><strong><span style=\"color: #000000;\"><a href=\"https:\/\/affwebsite.com\/mybid\/#comments\" onclick=\"window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=500,height=600'); return false;\" rel=\"noopener\" target=\"_blank\">Write a Review<\/a><\/span><\/strong><\/span><\/span><\/h6>",
+                "link": "https:\/\/mybid.io\/"
+            },
+            "settings": null,
+            "created_at": "2022-12-12 10:38:47",
+            "updated_at": "2024-01-20 07:18:39"
+        }
+    ]
+}
